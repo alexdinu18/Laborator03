@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhoneDialer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="introduce">introduce your number</string>
+	<string name="keyone">1</string>
+	<string name="keytwo">2</string>
+	<string name="keythree">3</string>
+	<string name="keyfour">4</string>
+	<string name="keyfive">5</string>
+	<string name="keysix">6</string>
+	<string name="keyseven">7</string>
+	<string name="keyeight">8</string>
+	<string name="keynine">9</string>
+	<string name="keyzero">0</string>
+	<string name="keypound">#</string>
+	<string name="keystar">*</string>
+</resources>
